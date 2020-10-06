@@ -1,0 +1,11 @@
+CNA_index	seg_index	subclone_ID	phase	change
+0	3	2	A	2
+1	12	5	B	-1
+2	7	9	B	2
+3	15	9	B	2
+4	0	12	A	-1
+5	17	12	B	-1
+6	19	12	B	-1
+7	6	13	B	1
+8	3	15	A	1
+9	17	15	A	1
